@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jwr-advisory.com/sitemap.xml
