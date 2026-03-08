@@ -105,6 +105,8 @@ export default function EmbeddedFinance() {
     </section>
 
     <section style={{ padding: '50px 0' }}>
+      <div className="w">
+        <p className="label">Verwandte Themen</p>
         <div className="grid3">
           <Link href="/ki-beratung" className="card" style={{ textDecoration: 'none', color: 'inherit' }}><span className="mtag">KI-Beratung</span><h3>KI-Beratung für Finanzdienstleister</h3><p className="g" style={{ fontSize: 12, fontWeight: 300 }}>Von der Standortbestimmung bis zum produktiven Einsatz.</p></Link>
           <Link href="/consulting" className="card" style={{ textDecoration: 'none', color: 'inherit' }}><span className="mtag">Consulting</span><h3>Consulting & Interim Management</h3><p className="g" style={{ fontSize: 12, fontWeight: 300 }}>Programmleitung, Interim, Due Diligence.</p></Link>
